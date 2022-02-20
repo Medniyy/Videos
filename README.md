@@ -10,5 +10,6 @@ Here will be published video materials i created/recorded for whole CryptoCommun
 # YouTube Channel in Russian Language about How To Crypto </br>
 - How to participate in Governance [RU version](https://youtu.be/zL1D58I6gBQ)</br>
 ![image](https://user-images.githubusercontent.com/92199696/153260086-460d96d3-807c-49fb-afcb-e23e8eed9329.png)
+- How to delegate, transfer, sell UMEE[RU](https://www.youtube.com/watch?v=2Ja7Sv_rCfQ&t=5s)
 
 
