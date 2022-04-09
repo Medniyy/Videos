@@ -1,6 +1,8 @@
 # Videos
 Here will be published video materials i created/recorded for whole CryptoCommunity
 - My personal YouTube [Channel](https://www.youtube.com/cryptoslovo) </br>
+- I'm part of YouTube Channel [CryptoBase](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A)
+- ![image](https://user-images.githubusercontent.com/92199696/162560097-eaa395ca-942f-4688-b34c-dff3ffef78e0.png) </br >
 - Cosmos Ecosystem [Twitter account](https://twitter.com/CosmosEcosystem) where i helping with content creation</br>
 # Sputnik Network
 - [Here is](https://www.youtube.com/watch?v=SRIYSCJwqFs) the explanation about how to enable Telegram translator and use it </br>
